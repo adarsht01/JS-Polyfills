@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polyfills</title>
+</head>
+<body>
+    <h1>POLYFILLS (see console for results)</h1>
+    <h2>Debounce (a fxn will execute after waiting t seconds from last event call)</h2>
+    <input id="debounce-delay" type="text" placeholder="enter time in miliseconds">
+    <button id="debounce-btn">Click Me to see debounce in console</button>
+
+
+    <h2>Throttle (a fxn will call at a gap of t seconds no matter how many time user call the fxn)</h2>
+    <input id="throttle-delay" type="text" placeholder="enter time in miliseconds">
+    <button id="throttle-btn">Click me to see throttle in console</button>
+
+    <h2>Once Function (a fxn will calls only once)</h2>
+    <button id="once-btn">Executed only once</button>
+
+    <h2>Rate Limiter (a fxn will execute max x times in t seconds)</h2>
+    <input id="input-times" type="number" placeholder="enter no of times">
+    <input id="input-seconds" types="number" placeholder="enter time in miliseconds">
+    <button id="rate-limit-btn">Click to see rate limiter</button>
+    
+    <script type="module" src="index.js"></script>
+</body>
+</html>
