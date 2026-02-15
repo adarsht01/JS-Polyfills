@@ -82,7 +82,7 @@ Function composition (compose / pipe)
 
     -->Rate limiter
 
-    Memoization
+    -->Memoization
 
 🔹 Event & Pub-Sub
 
