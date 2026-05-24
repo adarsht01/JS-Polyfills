@@ -4,114 +4,114 @@ Javascript polyfills for various inbuilt functionality.
 JavaScript Polyfills – Interview Practice List
 🔹 Array Methods
 
-    Array.prototype.map
+    1. Array.prototype.map ✅
 
-    Array.prototype.filter
+    2. Array.prototype.filter ✅
 
-    Array.prototype.reduce
+    3. Array.prototype.reduce ✅
 
-    Array.prototype.forEach
+    4. Array.prototype.forEach ✅
 
-    Array.prototype.find
+    5. Array.prototype.find
 
-    Array.prototype.findIndex
+    6. Array.prototype.findIndex
 
-    Array.prototype.some
+    7. Array.prototype.some
 
-    Array.prototype.every
+    8. Array.prototype.every
 
-    Array.prototype.includes
+    9. Array.prototype.includes
 
-    Array.prototype.flat
+    10.Array.prototype.flat
 
-    Array.prototype.flatMap
+    11.Array.prototype.flatMap
 
-    Array.prototype.groupBy
+    12.Array.prototype.groupBy
 
 🔹 Function Methods
 
-    Function.prototype.call
+    13. Function.prototype.call
 
-    Function.prototype.apply
+    14. Function.prototype.apply
 
-    Function.prototype.bind
+    15. Function.prototype.bind
 
-    Currying function
+    16. Currying function
 
-    Memoization function
+    17. Memoization function
 
 Function composition (compose / pipe)
 
 🔹 Object Methods
 
-    Object.create
+    18. Object.create
 
-    Object.assign
+    19 .Object.assign
 
-    Object.entries
+    20. Object.entries
 
-    Object.fromEntries
+    21. Object.fromEntries
 
-    Deep clone (recursive implementation)
+    22. Deep clone (recursive implementation)
 
 🔹 Promise & Async
 
-    Basic Promise implementation
+    23. Basic Promise implementation
 
-    Promise.then chaining
+    24. Promise.then chaining
 
-    Promise.all
+    25. Promise.all
 
-    Promise.race
+    26. Promise.race
 
-    Promise.allSettled
+    27. Promise.allSettled
 
-    Promise.any
+    28. Promise.any
 
-    Retry mechanism using Promises
+    29. Retry mechanism using Promises
 
-    async/await using generators
+    30. async/await using generators
 
 🔹 Performance Utilities
 
-    -->Debounce
+    31. Debounce✅
 
-    -->Throttle
+    32. Throttle ✅
 
-    -->Once function
+    33. Once function ✅
 
-    -->Rate limiter
+    34. Rate limiter ✅
 
-    -->Memoization
+    35. Memoization ✅
 
 🔹 Event & Pub-Sub
 
-    Custom EventEmitter
+    36. Custom EventEmitter
 
-    Publish–Subscribe pattern
+    37. Publish–Subscribe pattern
 
 🔹 Advanced / Data Structure Based
 
-    LRU Cache
+    38. LRU Cache
 
-    Custom Set implementation
+    39. Custom Set implementation
 
-    Custom Map implementation
+    40. Custom Map implementation
 
-    Deep equality check
+    41. Deep equality check
 
-    Flatten nested object
+    42. Flatten nested object
 
-    Polyfill for JSON.stringify (basic)
+    43. Polyfill for JSON.stringify (basic)
 
 🔹 Miscellaneous
 
-    setTimeout using setInterval
+    44. setTimeout using setInterval
 
-    clearAllTimeout
+    45. clearAllTimeout
 
-    Custom Symbol implementation (basic idea)
+    46. Custom Symbol implementation (basic idea)
 
-    Custom instanceof implementation
+    47. Custom instanceof implementation
 
-    Custom new operator implementation
+    48. Custom new operator implementation
