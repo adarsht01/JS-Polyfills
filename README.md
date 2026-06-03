@@ -30,11 +30,11 @@ JavaScript Polyfills – Interview Practice List
 
 🔹 Function Methods
 
-    13. Function.prototype.call
+    13. Function.prototype.call ✅
 
-    14. Function.prototype.apply
+    14. Function.prototype.apply ✅
 
-    15. Function.prototype.bind
+    15. Function.prototype.bind ✅
 
     16. Currying function
 

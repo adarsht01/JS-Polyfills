@@ -12,3 +12,5 @@ import "./ArrayMethods/findPolyfills.js";
 import "./ArrayMethods/includesPolyfills.js";
 import "./ArrayMethods/flatPolyfills.js";
 import "./ArrayMethods/groupByPolyfills.js";
+
+import "./FunctionMethods/callPolyfills.js";
